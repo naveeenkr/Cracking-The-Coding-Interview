@@ -1,4 +1,5 @@
 // 1.2 check permutation
+//Assume ASCII of 256 chars and check count of chars in both string is same or not.
 
 import java.util.*;
 
