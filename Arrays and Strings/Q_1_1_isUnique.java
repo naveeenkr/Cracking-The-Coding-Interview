@@ -1,4 +1,5 @@
 // 1.1 IsUnique
+// Assume ASCII of 256 chars.
 
 import java.util.*;
 
